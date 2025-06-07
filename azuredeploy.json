@@ -4,6 +4,7 @@
   "parameters": {
     "storageAccountName": {
       "type": "string",
+      "defaultValue": "mypocstorage12345", // Added a simple default value
       "metadata": {
         "description": "The name of the Azure Storage account."
       }
