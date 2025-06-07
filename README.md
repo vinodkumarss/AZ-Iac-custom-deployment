@@ -7,7 +7,7 @@ This repository contains a Proof of Concept for deploying Azure infrastructure u
 Click the button below to deploy a basic Azure Storage Account to your active Azure tenant.
 
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/vinodkumarss/AZ-Iac-custom-deployment/refs/heads/azure-iac-poc/azuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/vinodkumarss/AZ-Iac-custom-deployment/refs/heads/azure-iac-poc/azuredeploy.json?token=GHSAT0AAAAAADFH4X2MMGLCD7CXTU2WLYHA2CD5QRQ)
 
 ---
 
